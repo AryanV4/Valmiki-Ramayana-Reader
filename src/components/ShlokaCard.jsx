@@ -36,7 +36,7 @@ const ShlokaCard = ({ shlokaData, expandedMode }) => {
             {/* Sandhi Viched (Expanded View) */}
             <div className={`analysis-section ${isExpanded ? 'active' : ''}`}>
                 <div className="padaccheda-container">
-                    <h4 className="section-title">पद विच्छेद (Word Break)</h4>
+                    <h4 className="section-title">पदविच्छेदः (Word Break)</h4>
                     <div className={`word-grid ${expandedMode ? 'expanded-mode' : ''}`}>
                         {shlokaData.words.map((word, index) => (
                             <Word key={index} wordData={word} expandedMode={expandedMode} />

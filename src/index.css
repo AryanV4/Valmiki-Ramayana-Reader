@@ -460,7 +460,7 @@ body {
 .section-title {
   font-size: 0.7rem;
   text-transform: uppercase;
-  letter-spacing: 0.15em;
+  /* letter-spacing: 0.15em; */
   color: var(--text-muted);
   margin-bottom: 1.5rem;
   text-align: center;
@@ -831,8 +831,8 @@ body {
     /* Reduced gap for more space */
   }
 }
+
 .analyze-btn {
   user-select: none;
   cursor: pointer;
 }
-
