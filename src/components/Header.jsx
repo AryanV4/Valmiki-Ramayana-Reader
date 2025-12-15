@@ -25,35 +25,7 @@ const Header = ({ currentSelection, onSelectionChange, theme, toggleTheme, expan
                     </h1>
                 </div>
 
-                {/* Desktop Controls */}
                 <div className="nav-controls desktop-only">
-                    <button
-                        className="theme-toggle"
-                        onClick={toggleTheme}
-                        title={theme === 'dark' ? "Switch to Light Mode" : "Switch to Dark Mode"}
-                    >
-                        {theme === 'dark' ? '☾' : '☀'}
-                    </button>
-
-                    <button
-                        className={`theme-toggle ${expandedMode ? 'active' : ''}`}
-                        onClick={() => setExpandedMode(!expandedMode)}
-                        title="Toggle Detail View"
-                        style={{
-                            fontSize: '0.8rem',
-                            width: 'auto',
-                            padding: '0 12px',
-                            fontWeight: 500,
-                            borderRadius: '20px',
-                            marginLeft: '4px',
-                            background: expandedMode ? 'var(--accent-color)' : 'transparent',
-                            color: expandedMode ? '#fff' : 'inherit',
-                            border: expandedMode ? 'none' : '1px solid var(--border-color)'
-                        }}
-                    >
-                        {expandedMode ? 'Detailed' : 'Simple'}
-                    </button>
-
                     <Select
                         value={currentSelection.kanda}
                         onChange={(val) => handleChange('kanda', val)}
@@ -67,6 +39,34 @@ const Header = ({ currentSelection, onSelectionChange, theme, toggleTheme, expan
                         options={sargaOptions}
                         className="desktop-select"
                     />
+
+                    <button
+                        className={`theme-toggle ${expandedMode ? 'active' : ''}`}
+                        onClick={() => setExpandedMode(!expandedMode)}
+                        title="Toggle Detail View"
+                        style={{
+                            fontSize: '0.8rem',
+                            width: 'auto',
+                            padding: '0 12px',
+                            fontWeight: 500,
+                            borderRadius: '20px',
+                            marginLeft: '12px',
+                            background: 'transparent',
+                            color: expandedMode ? 'var(--text-sanskrit)' : 'inherit',
+                            border: expandedMode ? '1px solid var(--text-sanskrit)' : '1px solid var(--border-color)'
+                        }}
+                    >
+                        {expandedMode ? 'Detailed' : 'Simple'}
+                    </button>
+
+                    <button
+                        className="theme-toggle"
+                        onClick={toggleTheme}
+                        title={theme === 'dark' ? "Switch to Light Mode" : "Switch to Dark Mode"}
+                        style={{ marginLeft: '8px' }}
+                    >
+                        {theme === 'dark' ? '☾' : '☀'}
+                    </button>
                 </div>
 
                 {/* Mobile Menu Button */}
@@ -91,25 +91,31 @@ const Header = ({ currentSelection, onSelectionChange, theme, toggleTheme, expan
 
                         <div className="sidebar-content">
                             <div className="sidebar-item">
-                                <label>Theme</label>
-                                <button className="theme-toggle-large" onClick={() => { toggleTheme(); setIsSidebarOpen(false); }}>
-                                    {theme === 'dark' ? '☀ Light Mode' : '☾ Dark Mode'}
-                                </button>
+                                <div className="toggle-row">
+                                    <label>Dark Mode</label>
+                                    <label className="switch">
+                                        <input
+                                            type="checkbox"
+                                            checked={theme === 'dark'}
+                                            onChange={() => { toggleTheme(); }}
+                                        />
+                                        <span className="slider"></span>
+                                    </label>
+                                </div>
                             </div>
 
                             <div className="sidebar-item">
-                                <label>View Mode</label>
-                                <button
-                                    className="theme-toggle-large"
-                                    onClick={() => { setExpandedMode(!expandedMode); setIsSidebarOpen(false); }}
-                                    style={{
-                                        background: expandedMode ? 'var(--accent-color)' : 'var(--bg-secondary)',
-                                        color: expandedMode ? '#fff' : 'var(--text-primary)',
-                                        borderColor: expandedMode ? 'transparent' : 'var(--border-color)'
-                                    }}
-                                >
-                                    {expandedMode ? 'Detailed View' : 'Simple View'}
-                                </button>
+                                <div className="toggle-row">
+                                    <label>Detailed View</label>
+                                    <label className="switch">
+                                        <input
+                                            type="checkbox"
+                                            checked={expandedMode}
+                                            onChange={() => setExpandedMode(!expandedMode)}
+                                        />
+                                        <span className="slider"></span>
+                                    </label>
+                                </div>
                             </div>
 
                             <div className="sidebar-item">
