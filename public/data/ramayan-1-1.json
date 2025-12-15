@@ -109,6 +109,11 @@
                     "tag": "Adj Nom Sg Masc"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "धर्म-ज्ञः",
                     "wordEng": "knower of righteousness",
                     "tag": "Adj Nom Sg Masc"
@@ -137,6 +142,11 @@
                     "wordSa": "दृढ-व्रतः",
                     "wordEng": "firm in vows",
                     "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -181,6 +191,11 @@
                     "tag": "Adj Nom Sg Masc"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "विद्वान्",
                     "wordEng": "learned man",
                     "tag": "Adj Nom Sg Masc"
@@ -219,6 +234,11 @@
                     "wordSa": "एक-प्रिय-दर्शनः",
                     "wordEng": "solely delightful in appearance",
                     "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -258,6 +278,11 @@
                     "tag": "Adj Nom Sg Masc"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "कस्य",
                     "wordEng": "of whom",
                     "tag": "Pron Gen Sg Masc"
@@ -286,6 +311,11 @@
                     "wordSa": "संयुगे",
                     "wordEng": "in the battle",
                     "tag": "Noun Loc Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -335,6 +365,11 @@
                     "tag": "Pron Gen Sg"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "महर्षे",
                     "wordEng": "O Maharshi",
                     "tag": "Noun Voc Sg Masc"
@@ -368,6 +403,11 @@
                     "wordSa": "नरम्",
                     "wordEng": "man",
                     "tag": "Noun Acc Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -412,6 +452,11 @@
                     "tag": "Noun Acc Sg Neut"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "श्रूयताम्",
                     "wordEng": "listen",
                     "tag": "Verb Impv 3P Sg"
@@ -445,6 +490,11 @@
                     "wordSa": "अब्रवीत्",
                     "wordEng": "spoke",
                     "tag": "Verb Impf 3P Sg"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -494,6 +544,11 @@
                     "tag": "Noun Nom Pl Masc"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "मुने",
                     "wordEng": "O Sage",
                     "tag": "Noun Voc Sg Masc"
@@ -532,6 +587,11 @@
                     "wordSa": "नरः",
                     "wordEng": "man",
                     "tag": "Noun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -566,6 +626,11 @@
                     "tag": "Adj Nom Sg Masc"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "नियत-आत्मा",
                     "wordEng": "steady natured",
                     "tag": "Adj Nom Sg Masc"
@@ -589,6 +654,11 @@
                     "wordSa": "वशी",
                     "wordEng": "self-controlled",
                     "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -623,6 +693,11 @@
                     "tag": "Adj Nom Sg Masc"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "विपुल-अंसः",
                     "wordEng": "broad shouldered",
                     "tag": "Adj Nom Sg Masc"
@@ -641,6 +716,11 @@
                     "wordSa": "महा-हनुः",
                     "wordEng": "strong cheeks",
                     "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -670,6 +750,11 @@
                     "tag": "Adj Nom Sg Masc"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "आजानु-बाहुः",
                     "wordEng": "knee-long arms",
                     "tag": "Adj Nom Sg Masc"
@@ -688,6 +773,11 @@
                     "wordSa": "सु-विक्रमः",
                     "wordEng": "great prowess",
                     "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -717,6 +807,11 @@
                     "tag": "Adj Nom Sg Masc"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "पीन-वक्षाः",
                     "wordEng": "strong developed chest",
                     "tag": "Adj Nom Sg Masc"
@@ -735,6 +830,11 @@
                     "wordSa": "शुभ-लक्षणः",
                     "wordEng": "auspicious qualities",
                     "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -779,6 +879,11 @@
                     "tag": "Adj Nom Sg Masc"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "यशस्वी",
                     "wordEng": "renowned",
                     "tag": "Adj Nom Sg Masc"
@@ -802,6 +907,11 @@
                     "wordSa": "समाधिमान्",
                     "wordEng": "meditating",
                     "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -831,6 +941,11 @@
                     "tag": "Adj Nom Sg Masc"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "रक्षिता",
                     "wordEng": "protector",
                     "tag": "Noun Nom Sg Masc"
@@ -849,6 +964,11 @@
                     "wordSa": "परिरक्षिता",
                     "wordEng": "protector",
                     "tag": "Noun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -888,6 +1008,11 @@
                     "tag": "Noun Nom Sg Masc"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "वेद-वेदाङ्ग-तत्त्व-ज्ञः",
                     "wordEng": "knower of true nature of vedas",
                     "tag": "Adj Nom Sg Masc"
@@ -906,6 +1031,11 @@
                     "wordSa": "निष्ठितः",
                     "wordEng": "accomplished",
                     "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -930,6 +1060,11 @@
                     "tag": "Adj Nom Sg Masc"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "सर्व-लोक-प्रियः",
                     "wordEng": "beloved of all people",
                     "tag": "Adj Nom Sg Masc"
@@ -948,6 +1083,11 @@
                     "wordSa": "विचक्षणः",
                     "wordEng": "circumspect",
                     "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -987,6 +1127,11 @@
                     "tag": "Noun Instr Pl Fem"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "आर्यः",
                     "wordEng": "man of virtue",
                     "tag": "Adj Nom Sg Masc"
@@ -1015,6 +1160,11 @@
                     "wordSa": "एक-प्रिय-दर्शनः",
                     "wordEng": "solely delightful in appearance",
                     "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -1042,6 +1192,11 @@
                     "wordSa": "कौसल्या-आनन्द-वर्धनः",
                     "wordEng": "increasing joy of Kausalya",
                     "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
                 },
                 {
                     "wordSa": "समुद्रः",
@@ -1072,6 +1227,11 @@
                     "wordSa": "इव",
                     "wordEng": "like",
                     "tag": "Ind"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -1106,6 +1266,11 @@
                     "tag": "Adj Nom Sg Masc"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "काल-अग्नि-सदृशः",
                     "wordEng": "like all-consuming fire",
                     "tag": "Adj Nom Sg Masc"
@@ -1124,6 +1289,11 @@
                     "wordSa": "पृथिवी-समः",
                     "wordEng": "equal to earth",
                     "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 },
                 {
                     "wordSa": "धनदेन",
@@ -1159,6 +1329,11 @@
                     "wordSa": "अपरः",
                     "wordEng": "another",
                     "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -1191,6 +1366,11 @@
                     "wordSa": "सत्य-पराक्रमम्",
                     "wordEng": "of true prowess",
                     "tag": "Adj Acc Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },
@@ -1230,6 +1410,11 @@
                     "tag": "Noun Acc Sg Masc"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "प्रकृतीनाम्",
                     "wordEng": "of subjects",
                     "tag": "Noun Gen Pl Fem"
@@ -1248,6 +1433,11 @@
                     "wordSa": "प्रकृति-प्रिय-काम्यया",
                     "wordEng": "with desire for affection of subjects",
                     "tag": "Noun Instr Sg Fem"
+                },
+                {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
                 },
                 {
                     "wordSa": "यौवराज्येन",
@@ -1273,6 +1463,11 @@
                     "wordSa": "मही-पतिः",
                     "wordEng": "Lord of Earth",
                     "tag": "Noun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         }

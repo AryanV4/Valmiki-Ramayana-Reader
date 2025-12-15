@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter:wght@300;400;500;600&family=Noto+Serif+Devanagari:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Inter:wght@300;400;500;600&family=Tiro+Devanagari+Sanskrit:ital@0;1&display=swap');
 
 :root {
   /* Default Dark Theme */
@@ -17,7 +17,7 @@
   --tooltip-border: #3f3f46;
 
   --font-sans: 'Inter', sans-serif;
-  --font-serif: 'Noto Serif Devanagari', serif;
+  --font-serif: 'Tiro Devanagari Sanskrit', serif;
 
   --nav-height: 64px;
 }
@@ -47,6 +47,11 @@
   padding: 0;
 }
 
+html {
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
 body {
   font-family: var(--font-sans);
   background-color: var(--bg-primary);
@@ -54,6 +59,9 @@ body {
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   transition: background-color 0.3s ease, color 0.3s ease;
+  overflow-x: hidden;
+  width: 100%;
+  position: relative;
 }
 
 /* App Layout */
@@ -68,13 +76,14 @@ body {
   width: 100%;
   max-width: 900px;
   margin: 0 auto;
-  padding: 2rem 1rem;
+  padding: calc(var(--nav-height) + 2rem) 1rem 2rem 1rem;
 }
 
 /* Header */
 .site-header {
   height: var(--nav-height);
-  position: sticky;
+  position: fixed;
+  width: 100%;
   top: 0;
   z-index: 100;
   background-color: var(--bg-primary);
@@ -512,17 +521,19 @@ body {
 .word-tooltip {
   position: absolute;
   bottom: calc(100% + 12px);
+
   /* Fixed gap from top of word */
   left: 50%;
   transform: translateX(-50%);
   background-color: var(--tooltip-bg);
   border: 1px solid var(--tooltip-border);
   border-radius: 12px;
+
   /* Rounder tooltip */
-  padding: 1rem;
+  padding: 0.25rem 1rem 0.5rem 1rem;
   width: max-content;
   min-width: 160px;
-  max-width: 280px;
+  max-width: min(280px, 90vw);
   box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.2), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
   z-index: 1000;
 
@@ -539,9 +550,9 @@ body {
 .tooltip-meaning {
   font-weight: 500;
   color: var(--text-primary);
-  padding-bottom: 0.5rem;
+  /* padding-bottom: 0.5rem; */
   margin-bottom: 0.5rem;
-  border-bottom: 1px solid var(--border-color);
+  border-bottom: 1px solid #ffc663;
   font-size: 0.9375rem;
 }
 
@@ -598,6 +609,14 @@ body {
 @media (max-width: 640px) {
   .sanskrit-text {
     font-size: 1.35rem;
+  }
+
+  .shloka-card {
+    padding: 1.5rem;
+  }
+
+  .padaccheda-container {
+    padding: 1rem;
   }
 }
 
@@ -700,7 +719,7 @@ body {
 /* Chapter Description */
 .sarga-number {
   font-size: 1.2rem;
-  color: var(--accent-color);
+  color: var(--text-sanskrit);
   margin: 0.5rem 0 1rem;
   font-weight: 500;
   text-transform: uppercase;
@@ -934,7 +953,6 @@ input:checked+.slider:before {
   font-family: var(--font-serif);
   font-size: 1.35rem;
   font-weight: 500;
-  /* color: var(--text-primary); */
   color: var(--text-sanskrit);
 
   /* Reset Pill Styles */
@@ -943,11 +961,16 @@ input:checked+.slider:before {
   border-radius: 0;
   box-shadow: none;
   padding: 0 0 0px 0;
-  /* Minimal padding */
 
   /* Line Mode Style */
   border-bottom: 2px solid var(--border-color);
   transition: all 0.2s ease;
+
+  /* Prevention of Overflow */
+  max-width: 100%;
+  white-space: normal;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
 }
 
 .word-container.line-mode:hover .sanskrit-word,
