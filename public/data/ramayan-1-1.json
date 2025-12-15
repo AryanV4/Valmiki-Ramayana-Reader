@@ -1,0 +1,1270 @@
+{
+    "sargaDesc": "Saint Narada visits hermitage of Valmiki. Valmiki queries about a single perfect individual bestowed with all good qualities enumerated by him. Narada, knower of past, present and future, identifies such a man, describes the virtues and qualities of Sri Rama, and narrates briefly the story of his life.",
+    "shlokas": [
+        {
+            "shlokanumber": "1.1.1",
+            "shloka": "तपस्स्वाध्यायनिरतं तपस्वी वाग्विदां वरम् । नारदं परिपप्रच्छ वाल्मीकिर्मुनिपुङ्गवम् ।।",
+            "translation": "Ascetic Valmiki enquired of Narada, preeminent among the sages ever engaged in religious austerities, study of the Vedas, and best among the eloquent.",
+            "words": [
+                {
+                    "wordSa": "तपः-स्वाध्याय-निरतम्",
+                    "wordEng": "engaged in austerities and study",
+                    "tag": "Adj Acc Sg Masc"
+                },
+                {
+                    "wordSa": "तपस्वी",
+                    "wordEng": "ascetic",
+                    "tag": "Noun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "वाक्-विदाम्",
+                    "wordEng": "of the eloquent",
+                    "tag": "Noun Acc Sg Masc"
+                },
+                {
+                    "wordSa": "वरम्",
+                    "wordEng": "best",
+                    "tag": "Adj Acc Sg Masc"
+                },
+                {
+                    "wordSa": "नारदम्",
+                    "wordEng": "Narada",
+                    "tag": "PropNoun Acc Sg Masc"
+                },
+                {
+                    "wordSa": "परिपप्रच्छ",
+                    "wordEng": "enquired",
+                    "tag": "Verb Perf 3P Sg"
+                },
+                {
+                    "wordSa": "वाल्मीकिः",
+                    "wordEng": "Valmiki",
+                    "tag": "PropNoun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "मुनि-पुङ्गवम्",
+                    "wordEng": "preeminent among sages",
+                    "tag": "Noun Acc Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.2",
+            "shloka": "कोन्वस्मिन्साम्प्रतं लोके गुणवान्कश्च वीर्यवान् । धर्मज्ञश्च कृतज्ञश्च सत्यवाक्यो दृढव्रत:।।",
+            "translation": "Who in this world lives today endowed with excellent qualities, prowess, righteousness, gratitude, truthfulness and firmness in his vows?",
+            "words": [
+                {
+                    "wordSa": "कः",
+                    "wordEng": "who",
+                    "tag": "Pron Nom Sg Masc"
+                },
+                {
+                    "wordSa": "नु",
+                    "wordEng": "indeed",
+                    "tag": "Ind"
+                },
+                {
+                    "wordSa": "अस्मिन्",
+                    "wordEng": "in this",
+                    "tag": "Pron Loc Sg Masc"
+                },
+                {
+                    "wordSa": "साम्प्रतम्",
+                    "wordEng": "now",
+                    "tag": "Adv"
+                },
+                {
+                    "wordSa": "लोके",
+                    "wordEng": "in the world",
+                    "tag": "Noun Loc Sg Masc"
+                },
+                {
+                    "wordSa": "गुणवान्",
+                    "wordEng": "endowed with qualities",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "कः",
+                    "wordEng": "who",
+                    "tag": "Pron Nom Sg Masc"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "वीर्यवान्",
+                    "wordEng": "possessed of prowess",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "धर्म-ज्ञः",
+                    "wordEng": "knower of righteousness",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "कृत-ज्ञः",
+                    "wordEng": "grateful",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "सत्य-वाक्यः",
+                    "wordEng": "truthful in speech",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "दृढ-व्रतः",
+                    "wordEng": "firm in vows",
+                    "tag": "Adj Nom Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.3",
+            "shloka": "चारित्रेण च को युक्तस्सर्वभूतेषु को हितः । विद्वान्क: कस्समर्थश्च कश्चैकप्रियदर्शनः ।।",
+            "translation": "Who is that one gifted with good conduct, given to the wellbeing of all living creatures, learned in the lore, capable of doing things which others cannot do and singularly handsome?",
+            "words": [
+                {
+                    "wordSa": "चारित्रेण",
+                    "wordEng": "by good conduct",
+                    "tag": "Noun Instr Sg Neut"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "कः",
+                    "wordEng": "who",
+                    "tag": "Pron Nom Sg Masc"
+                },
+                {
+                    "wordSa": "युक्तः",
+                    "wordEng": "endowed",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "सर्व-भूतेषु",
+                    "wordEng": "in all living beings",
+                    "tag": "Noun Loc Pl Neut"
+                },
+                {
+                    "wordSa": "कः",
+                    "wordEng": "who",
+                    "tag": "Pron Nom Sg Masc"
+                },
+                {
+                    "wordSa": "हितः",
+                    "wordEng": "benefactor",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "विद्वान्",
+                    "wordEng": "learned man",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "कः",
+                    "wordEng": "who",
+                    "tag": "Pron Nom Sg Masc"
+                },
+                {
+                    "wordSa": "कः",
+                    "wordEng": "who",
+                    "tag": "Pron Nom Sg Masc"
+                },
+                {
+                    "wordSa": "समर्थः",
+                    "wordEng": "competent",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "कः",
+                    "wordEng": "who",
+                    "tag": "Pron Nom Sg Masc"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "एक-प्रिय-दर्शनः",
+                    "wordEng": "solely delightful in appearance",
+                    "tag": "Adj Nom Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.4",
+            "shloka": "आत्मवान्को जितक्रोधो द्युतिमान्कोऽनसूयक: । कस्य बिभ्यति देवाश्च जातरोषस्य संयुगे ।।",
+            "translation": "Who (among men) is self-restrained? Who has conquered anger? Who is endowed with brilliance and free from envy? Who is that when excited to wrath even the devatas are afraid of?",
+            "words": [
+                {
+                    "wordSa": "आत्मवान्",
+                    "wordEng": "self-restrained",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "कः",
+                    "wordEng": "who",
+                    "tag": "Pron Nom Sg Masc"
+                },
+                {
+                    "wordSa": "जित-क्रोधः",
+                    "wordEng": "conqueror of anger",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "द्युतिमान्",
+                    "wordEng": "endowed with splendour",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "कः",
+                    "wordEng": "who",
+                    "tag": "Pron Nom Sg Masc"
+                },
+                {
+                    "wordSa": "अनसूयकः",
+                    "wordEng": "free from envy",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "कस्य",
+                    "wordEng": "of whom",
+                    "tag": "Pron Gen Sg Masc"
+                },
+                {
+                    "wordSa": "बिभ्यति",
+                    "wordEng": "they are afraid",
+                    "tag": "Verb Pres 3P Pl"
+                },
+                {
+                    "wordSa": "देवाः",
+                    "wordEng": "the gods",
+                    "tag": "Noun Nom Pl Masc"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "जात-रोषस्य",
+                    "wordEng": "when excited to wrath",
+                    "tag": "Adj Gen Sg Masc"
+                },
+                {
+                    "wordSa": "संयुगे",
+                    "wordEng": "in the battle",
+                    "tag": "Noun Loc Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.5",
+            "shloka": "एतदिच्छाम्यहं श्रोतुं परं कौतूहलं हि मे । महर्षे त्वं समर्थोऽसि ज्ञातुमेवंविधं नरम् ।।",
+            "translation": "O Maharshi, I intend to hear about such a man whom you are able to place? Indeed great is my curiosity.",
+            "words": [
+                {
+                    "wordSa": "एतत्",
+                    "wordEng": "this",
+                    "tag": "Pron Acc Sg Neut"
+                },
+                {
+                    "wordSa": "इच्छामि",
+                    "wordEng": "I desire",
+                    "tag": "Verb Pres 1P Sg"
+                },
+                {
+                    "wordSa": "अहम्",
+                    "wordEng": "I",
+                    "tag": "Pron Nom Sg"
+                },
+                {
+                    "wordSa": "श्रोतुम्",
+                    "wordEng": "to listen",
+                    "tag": "Infinitive"
+                },
+                {
+                    "wordSa": "परम्",
+                    "wordEng": "great",
+                    "tag": "Adj Nom Sg Neut"
+                },
+                {
+                    "wordSa": "कौतूहलम्",
+                    "wordEng": "curiosity",
+                    "tag": "Noun Nom Sg Neut"
+                },
+                {
+                    "wordSa": "हि",
+                    "wordEng": "indeed",
+                    "tag": "Ind"
+                },
+                {
+                    "wordSa": "मे",
+                    "wordEng": "my",
+                    "tag": "Pron Gen Sg"
+                },
+                {
+                    "wordSa": "महर्षे",
+                    "wordEng": "O Maharshi",
+                    "tag": "Noun Voc Sg Masc"
+                },
+                {
+                    "wordSa": "त्वम्",
+                    "wordEng": "you",
+                    "tag": "Pron Nom Sg"
+                },
+                {
+                    "wordSa": "समर्थः",
+                    "wordEng": "competent",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "असि",
+                    "wordEng": "are",
+                    "tag": "Verb Pres 2P Sg"
+                },
+                {
+                    "wordSa": "ज्ञातुम्",
+                    "wordEng": "to know",
+                    "tag": "Infinitive"
+                },
+                {
+                    "wordSa": "एवम्-विधम्",
+                    "wordEng": "of such kind",
+                    "tag": "Adj Acc Sg Masc"
+                },
+                {
+                    "wordSa": "नरम्",
+                    "wordEng": "man",
+                    "tag": "Noun Acc Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.6",
+            "shloka": "श्रुत्वा चैतत्ित्रलोकज्ञो वाल्मीकेर्नारदो वच: । श्रूयतामिति चामन्त्त्र्य प्रहृष्टो वाक्यमब्रवीत् ।।",
+            "translation": "Invited by Valmiki to take his seat Narada, knower of the three worlds heard him and said with delight, 'Listen to me!'. And thus spoke.",
+            "words": [
+                {
+                    "wordSa": "श्रुत्वा",
+                    "wordEng": "having heard",
+                    "tag": "Ind Participle"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "एतत्",
+                    "wordEng": "this",
+                    "tag": "Pron Acc Sg Neut"
+                },
+                {
+                    "wordSa": "त्रिलोक-ज्ञः",
+                    "wordEng": "knower of three worlds",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "वाल्मीकेः",
+                    "wordEng": "of Valmiki",
+                    "tag": "PropNoun Gen Sg Masc"
+                },
+                {
+                    "wordSa": "नारदः",
+                    "wordEng": "Narada",
+                    "tag": "PropNoun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "वचः",
+                    "wordEng": "speech",
+                    "tag": "Noun Acc Sg Neut"
+                },
+                {
+                    "wordSa": "श्रूयताम्",
+                    "wordEng": "listen",
+                    "tag": "Verb Impv 3P Sg"
+                },
+                {
+                    "wordSa": "इति",
+                    "wordEng": "thus",
+                    "tag": "Ind"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "आमन्त्त्र्य",
+                    "wordEng": "having invited",
+                    "tag": "Ind Participle"
+                },
+                {
+                    "wordSa": "प्रहृष्टः",
+                    "wordEng": "delighted",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "वाक्यम्",
+                    "wordEng": "words",
+                    "tag": "Noun Acc Sg Neut"
+                },
+                {
+                    "wordSa": "अब्रवीत्",
+                    "wordEng": "spoke",
+                    "tag": "Verb Impf 3P Sg"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.7",
+            "shloka": "बहवो दुर्लभाश्चैव ये त्वया कीर्तिता गुणा: । मुने वक्ष्याम्यहं बुद्ध्वा तैर्युक्तश्श्रूयतान्नर: ।।",
+            "translation": "O sage rare indeed are men endowed with the many qualities you have described. I ascertained one. Listen carefully.",
+            "words": [
+                {
+                    "wordSa": "बहवः",
+                    "wordEng": "many",
+                    "tag": "Adj Nom Pl Masc"
+                },
+                {
+                    "wordSa": "दुर्लभाः",
+                    "wordEng": "hard to find",
+                    "tag": "Adj Nom Pl Masc"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "एव",
+                    "wordEng": "indeed",
+                    "tag": "Ind"
+                },
+                {
+                    "wordSa": "ये",
+                    "wordEng": "which",
+                    "tag": "Pron Nom Pl Masc"
+                },
+                {
+                    "wordSa": "त्वया",
+                    "wordEng": "by you",
+                    "tag": "Pron Instr Sg"
+                },
+                {
+                    "wordSa": "कीर्तिताः",
+                    "wordEng": "described",
+                    "tag": "Adj Nom Pl Masc"
+                },
+                {
+                    "wordSa": "गुणाः",
+                    "wordEng": "qualities",
+                    "tag": "Noun Nom Pl Masc"
+                },
+                {
+                    "wordSa": "मुने",
+                    "wordEng": "O Sage",
+                    "tag": "Noun Voc Sg Masc"
+                },
+                {
+                    "wordSa": "वक्ष्यामि",
+                    "wordEng": "I shall tell",
+                    "tag": "Verb Fut 1P Sg"
+                },
+                {
+                    "wordSa": "अहम्",
+                    "wordEng": "I",
+                    "tag": "Pron Nom Sg"
+                },
+                {
+                    "wordSa": "बुद्ध्वा",
+                    "wordEng": "having ascertained",
+                    "tag": "Ind Participle"
+                },
+                {
+                    "wordSa": "तैः",
+                    "wordEng": "with those",
+                    "tag": "Pron Instr Pl Masc"
+                },
+                {
+                    "wordSa": "युक्तः",
+                    "wordEng": "endowed",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "श्रूयताम्",
+                    "wordEng": "listen",
+                    "tag": "Verb Impv 3P Sg"
+                },
+                {
+                    "wordSa": "नरः",
+                    "wordEng": "man",
+                    "tag": "Noun Nom Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.8",
+            "shloka": "इक्ष्वाकुवंशप्रभवो रामो नाम जनैश्श्रुत: । नियतात्मा महावीर्यो द्युतिमान्धृतिमान् वशी ।।",
+            "translation": "People have heard his name as Rama, who was born in the race of king Ikshvaku, having steady nature, possessing incomprehensible prowess, self-effulgent, self-commanding and subjecting senses under his control.",
+            "words": [
+                {
+                    "wordSa": "इक्ष्वाकु-वंश-प्रभवः",
+                    "wordEng": "born in Ikshvaku lineage",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "रामः",
+                    "wordEng": "Rama",
+                    "tag": "PropNoun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "नाम",
+                    "wordEng": "by name",
+                    "tag": "Ind"
+                },
+                {
+                    "wordSa": "जनैः",
+                    "wordEng": "by people",
+                    "tag": "Noun Instr Pl Masc"
+                },
+                {
+                    "wordSa": "श्रुतः",
+                    "wordEng": "heard",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "नियत-आत्मा",
+                    "wordEng": "steady natured",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "महा-वीर्यः",
+                    "wordEng": "great prowess",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "द्युतिमान्",
+                    "wordEng": "self-effulgent",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "धृतिमान्",
+                    "wordEng": "resolute",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "वशी",
+                    "wordEng": "self-controlled",
+                    "tag": "Adj Nom Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.9",
+            "shloka": "बुद्धिमान्नीतिमान्वाग्मी श्रीमान् शत्रुनिबर्हण: । विपुलांसो महाबाहु: कम्बुग्रीवो महाहनु: ।।",
+            "translation": "He is a great intellectual, adherent to rules, eloquent, handsome, destroyer of foes (sins), broad-shouldered, strong-armed, having conch-shaped neck and prominent cheeks.",
+            "words": [
+                {
+                    "wordSa": "बुद्धिमान्",
+                    "wordEng": "great intellectual",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "नीतिमान्",
+                    "wordEng": "learned in ethics",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "वाग्मी",
+                    "wordEng": "eloquent",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "श्रीमान्",
+                    "wordEng": "auspicious",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "शत्रु-निबर्हणः",
+                    "wordEng": "destroyer of foes",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "विपुल-अंसः",
+                    "wordEng": "broad shouldered",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "महा-बाहुः",
+                    "wordEng": "strong armed",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "कम्बु-ग्रीवः",
+                    "wordEng": "conch-shaped neck",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "महा-हनुः",
+                    "wordEng": "strong cheeks",
+                    "tag": "Adj Nom Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.10",
+            "shloka": "महोरस्को महेष्वासो गूढजत्रुररिन्दमः । आजानुबाहुस्सुशिरास्सुललाटस्सुविक्रमः ।।",
+            "translation": "Possessing a broad chest, armed with a great bow, with fleshy collar bones, knee-long arms, a noble head, a graceful forehead and great prowess, he is the destroyer of foes.",
+            "words": [
+                {
+                    "wordSa": "महा-उरस्कः",
+                    "wordEng": "broad chested",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "महा-इष्वासः",
+                    "wordEng": "armed with great bow",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "गूढ-जत्रुः",
+                    "wordEng": "fleshy collar bones",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "अरिन्दमः",
+                    "wordEng": "destroyer of foes",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "आजानु-बाहुः",
+                    "wordEng": "knee-long arms",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "सु-शिराः",
+                    "wordEng": "noble head",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "सु-ललाटः",
+                    "wordEng": "beautiful forehead",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "सु-विक्रमः",
+                    "wordEng": "great prowess",
+                    "tag": "Adj Nom Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.11",
+            "shloka": "समस्समविभक्ताङ्गस्स्निग्धवर्ण: प्रतापवान् । पीनवक्षा विशालाक्षो लक्ष्मीवान् शुभलक्षणः ।।",
+            "translation": "Mighty and powerful, he has a well-proportioned body, neither tall nor short, shining complexion, well-developed chest, large eyes, lustrous body and good qualities.",
+            "words": [
+                {
+                    "wordSa": "समः",
+                    "wordEng": "neither tall nor short",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "सम-विभक्त-अङ्गः",
+                    "wordEng": "well-proportioned limbs",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "स्निग्ध-वर्णः",
+                    "wordEng": "shining complexion",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "प्रतापवान्",
+                    "wordEng": "powerful",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "पीन-वक्षाः",
+                    "wordEng": "strong developed chest",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "विशाल-अक्षः",
+                    "wordEng": "large eyes",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "लक्ष्मीवान्",
+                    "wordEng": "lustrous body",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "शुभ-लक्षणः",
+                    "wordEng": "auspicious qualities",
+                    "tag": "Adj Nom Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.12",
+            "shloka": "धर्मज्ञस्सत्यसन्धश्च प्रजानां च हिते रतः । यशस्वी ज्ञानसम्पन्नश्शुचिर्वश्यस्समाधिमान् ।।",
+            "translation": "Pious, firm in his vows, he is ever intent on doing good to his subjects. He is, illustrious, wise, and pure at heart. He is obedient to elders and ever meditating.",
+            "words": [
+                {
+                    "wordSa": "धर्म-ज्ञः",
+                    "wordEng": "knower of duties",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "सत्य-सन्धः",
+                    "wordEng": "firm in vows",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "प्रजानाम्",
+                    "wordEng": "of subjects",
+                    "tag": "Noun Gen Pl Fem"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "हिते",
+                    "wordEng": "in welfare",
+                    "tag": "Noun Loc Sg Neut"
+                },
+                {
+                    "wordSa": "रतः",
+                    "wordEng": "intent on",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "यशस्वी",
+                    "wordEng": "renowned",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "ज्ञान-सम्पन्नः",
+                    "wordEng": "endowed with wisdom",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "शुचिः",
+                    "wordEng": "pure",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "वश्यः",
+                    "wordEng": "obedient",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "समाधिमान्",
+                    "wordEng": "meditating",
+                    "tag": "Adj Nom Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.13",
+            "shloka": "प्रजापतिसमश्श्रीमान् धाता रिपुनिषूदनः । रक्षिता जीवलोकस्य धर्मस्य परिरक्षिता ।।",
+            "translation": "Auspicious like Brahma, Sri Rama is the sustainer of this world, destroyer of enemies and protector of all living beings and of the moral code.",
+            "words": [
+                {
+                    "wordSa": "प्रजापति-समः",
+                    "wordEng": "equal to Brahma",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "श्रीमान्",
+                    "wordEng": "auspicious",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "धाता",
+                    "wordEng": "sustainer",
+                    "tag": "Noun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "रिपु-निषूदनः",
+                    "wordEng": "destroyer of enemies",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "रक्षिता",
+                    "wordEng": "protector",
+                    "tag": "Noun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "जीव-लोकस्य",
+                    "wordEng": "of all living beings",
+                    "tag": "Noun Gen Sg Masc"
+                },
+                {
+                    "wordSa": "धर्मस्य",
+                    "wordEng": "of moral code",
+                    "tag": "Noun Gen Sg Masc"
+                },
+                {
+                    "wordSa": "परिरक्षिता",
+                    "wordEng": "protector",
+                    "tag": "Noun Nom Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.14",
+            "shloka": "रक्षिता स्वस्य धर्मस्य स्वजनस्य च रक्षिता । वेदवेदाङ्गतत्त्वज्ञो धनुर्वेदे च निष्ठितः ।।",
+            "translation": "He has performed the duties of a king and protected his subjects. Knowledgeable in the true nature of the Vedas he is accomplished in military science.",
+            "words": [
+                {
+                    "wordSa": "रक्षिता",
+                    "wordEng": "protector",
+                    "tag": "Noun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "स्वस्य",
+                    "wordEng": "of his own",
+                    "tag": "Pron Gen Sg"
+                },
+                {
+                    "wordSa": "धर्मस्य",
+                    "wordEng": "of duty",
+                    "tag": "Noun Gen Sg Masc"
+                },
+                {
+                    "wordSa": "स्वजनस्य",
+                    "wordEng": "of his own subjects",
+                    "tag": "Noun Gen Sg Masc"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "रक्षिता",
+                    "wordEng": "protector",
+                    "tag": "Noun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "वेद-वेदाङ्ग-तत्त्व-ज्ञः",
+                    "wordEng": "knower of true nature of vedas",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "धनुः-वेदे",
+                    "wordEng": "in military science",
+                    "tag": "Noun Loc Sg Masc"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "निष्ठितः",
+                    "wordEng": "accomplished",
+                    "tag": "Adj Nom Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.15",
+            "shloka": "सर्वशास्त्रार्थतत्त्वज्ञस्स्मृतिमान्प्रतिभानवान् । सर्वलोकप्रियस्साधुरदीनात्मा विचक्षणः ।।",
+            "translation": "Sri Rama knows the true meaning of all scriptures and has a retentive memory. He is talented, beloved and well-disposed towards all people, has an unperturbed mind and is circumspect.",
+            "words": [
+                {
+                    "wordSa": "सर्व-शास्त्र-अर्थ-तत्त्व-ज्ञः",
+                    "wordEng": "knower of meaning of all scriptures",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "स्मृतिमान्",
+                    "wordEng": "has retentive memory",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "प्रतिभानवान्",
+                    "wordEng": "talented",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "सर्व-लोक-प्रियः",
+                    "wordEng": "beloved of all people",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "साधुः",
+                    "wordEng": "well-disposed",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "अदीन-आत्मा",
+                    "wordEng": "unperturbed mind",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "विचक्षणः",
+                    "wordEng": "circumspect",
+                    "tag": "Adj Nom Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.16",
+            "shloka": "सर्वदाभिगतस्सद्भिस्समुद्र इव सिन्धुभिः । आर्यस्सर्वसमश्चैव सदैकप्रियदर्शनः ।।",
+            "translation": "Sri Rama, like sea to rivers, is accessible to men of virtue and has equal disposition towards all. He always has a pleasing appearance.",
+            "words": [
+                {
+                    "wordSa": "सर्वदा",
+                    "wordEng": "ever",
+                    "tag": "Adv"
+                },
+                {
+                    "wordSa": "अभिगतः",
+                    "wordEng": "approachable",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "सद्भिः",
+                    "wordEng": "by good men",
+                    "tag": "Noun Instr Pl Masc"
+                },
+                {
+                    "wordSa": "समुद्रः",
+                    "wordEng": "sea",
+                    "tag": "Noun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "इव",
+                    "wordEng": "like",
+                    "tag": "Ind"
+                },
+                {
+                    "wordSa": "सिन्धुभिः",
+                    "wordEng": "by rivers",
+                    "tag": "Noun Instr Pl Fem"
+                },
+                {
+                    "wordSa": "आर्यः",
+                    "wordEng": "man of virtue",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "सर्व-समः",
+                    "wordEng": "equal to all",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "एव",
+                    "wordEng": "indeed",
+                    "tag": "Ind"
+                },
+                {
+                    "wordSa": "सदा",
+                    "wordEng": "always",
+                    "tag": "Adv"
+                },
+                {
+                    "wordSa": "एक-प्रिय-दर्शनः",
+                    "wordEng": "solely delightful in appearance",
+                    "tag": "Adj Nom Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.17",
+            "shloka": "स च सर्वगुणोपेत: कौसल्यानन्दवर्धन: । समुद्र इव गाम्भीर्ये धैर्येण हिमवानिव ।।",
+            "translation": "Sri Rama, bestowed with all virtues, enhanced the joys of Kausalya, He is like the sea in deportment and like Himavant in fortitude.",
+            "words": [
+                {
+                    "wordSa": "सः",
+                    "wordEng": "he",
+                    "tag": "Pron Nom Sg Masc"
+                },
+                {
+                    "wordSa": "च",
+                    "wordEng": "and",
+                    "tag": "Conj"
+                },
+                {
+                    "wordSa": "सर्व-गुण-उपेतः",
+                    "wordEng": "endowed with all virtues",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "कौसल्या-आनन्द-वर्धनः",
+                    "wordEng": "increasing joy of Kausalya",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "समुद्रः",
+                    "wordEng": "the sea",
+                    "tag": "Noun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "इव",
+                    "wordEng": "like",
+                    "tag": "Ind"
+                },
+                {
+                    "wordSa": "गाम्भीर्ये",
+                    "wordEng": "in profundity",
+                    "tag": "Noun Loc Sg Neut"
+                },
+                {
+                    "wordSa": "धैर्येण",
+                    "wordEng": "in fortitude",
+                    "tag": "Noun Instr Sg Neut"
+                },
+                {
+                    "wordSa": "हिमवान्",
+                    "wordEng": "Himalaya",
+                    "tag": "PropNoun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "इव",
+                    "wordEng": "like",
+                    "tag": "Ind"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.18",
+            "shloka": "विष्णुना सदृशो वीर्ये सोमवत्प्रियदर्शनः । कालाग्निसदृशः क्रोधे क्षमया पृथिवीसमः ।। धनदेन समस्त्यागे सत्ये धर्म इवापरः ।",
+            "translation": "Sri Rama is like Visnu in prowess, the Moon in pleasing appearance, the all-consuming fire in anger, the earth in patience, Kubera in charity and the Sun in steadfastness.",
+            "words": [
+                {
+                    "wordSa": "विष्णुना",
+                    "wordEng": "with Vishnu",
+                    "tag": "PropNoun Instr Sg Masc"
+                },
+                {
+                    "wordSa": "सदृशः",
+                    "wordEng": "similar",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "वीर्ये",
+                    "wordEng": "in prowess",
+                    "tag": "Noun Loc Sg Neut"
+                },
+                {
+                    "wordSa": "सोम-वत्",
+                    "wordEng": "like the moon",
+                    "tag": "Ind"
+                },
+                {
+                    "wordSa": "प्रिय-दर्शनः",
+                    "wordEng": "pleasing to sight",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "काल-अग्नि-सदृशः",
+                    "wordEng": "like all-consuming fire",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "क्रोधे",
+                    "wordEng": "in anger",
+                    "tag": "Noun Loc Sg Masc"
+                },
+                {
+                    "wordSa": "क्षमया",
+                    "wordEng": "in patience",
+                    "tag": "Noun Instr Sg Fem"
+                },
+                {
+                    "wordSa": "पृथिवी-समः",
+                    "wordEng": "equal to earth",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "धनदेन",
+                    "wordEng": "with Kubera",
+                    "tag": "PropNoun Instr Sg Masc"
+                },
+                {
+                    "wordSa": "समः",
+                    "wordEng": "equal",
+                    "tag": "Adj Nom Sg Masc"
+                },
+                {
+                    "wordSa": "त्यागे",
+                    "wordEng": "in charity",
+                    "tag": "Noun Loc Sg Masc"
+                },
+                {
+                    "wordSa": "सत्ये",
+                    "wordEng": "in truth",
+                    "tag": "Noun Loc Sg Neut"
+                },
+                {
+                    "wordSa": "धर्मः",
+                    "wordEng": "Dharma",
+                    "tag": "Noun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "इव",
+                    "wordEng": "like",
+                    "tag": "Ind"
+                },
+                {
+                    "wordSa": "अपरः",
+                    "wordEng": "another",
+                    "tag": "Adj Nom Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.19",
+            "shloka": "तमेवं गुणसम्पन्नं रामं सत्यपराक्रमम् ।।",
+            "translation": "Thus, Sri Rama, the eldest son, was endowed with excellent virtues and true prowess.",
+            "words": [
+                {
+                    "wordSa": "तम्",
+                    "wordEng": "him",
+                    "tag": "Pron Acc Sg Masc"
+                },
+                {
+                    "wordSa": "एवम्",
+                    "wordEng": "thus",
+                    "tag": "Ind"
+                },
+                {
+                    "wordSa": "गुण-सम्पन्नम्",
+                    "wordEng": "endowed with qualities",
+                    "tag": "Adj Acc Sg Masc"
+                },
+                {
+                    "wordSa": "रामम्",
+                    "wordEng": "Rama",
+                    "tag": "PropNoun Acc Sg Masc"
+                },
+                {
+                    "wordSa": "सत्य-पराक्रमम्",
+                    "wordEng": "of true prowess",
+                    "tag": "Adj Acc Sg Masc"
+                }
+            ]
+        },
+        {
+            "shlokanumber": "1.1.20",
+            "shloka": "ज्येष्ठं श्रेष्ठगुणैर्युक्तं प्रियं दशरथस्सुतम् । प्रकृतीनां हितैर्युक्तं प्रकृतिप्रियकाम्यया । यौवराज्येन संयोक्तुमैच्छत्प्रीत्या महीपति: ।।",
+            "translation": "King Dasaratha, out of affection and a desire for the welfare of the people, wished to appoint him as Heir Apparent, who was engaged in the good of the subjects.",
+            "words": [
+                {
+                    "wordSa": "ज्येष्ठम्",
+                    "wordEng": "eldest",
+                    "tag": "Adj Acc Sg Masc"
+                },
+                {
+                    "wordSa": "श्रेष्ठ-गुणैः",
+                    "wordEng": "with excellent virtues",
+                    "tag": "Noun Instr Pl Masc"
+                },
+                {
+                    "wordSa": "युक्तम्",
+                    "wordEng": "endowed",
+                    "tag": "Adj Acc Sg Masc"
+                },
+                {
+                    "wordSa": "प्रियम्",
+                    "wordEng": "beloved",
+                    "tag": "Adj Acc Sg Masc"
+                },
+                {
+                    "wordSa": "दशरथः",
+                    "wordEng": "Dasaratha",
+                    "tag": "PropNoun Nom Sg Masc"
+                },
+                {
+                    "wordSa": "सुतम्",
+                    "wordEng": "son",
+                    "tag": "Noun Acc Sg Masc"
+                },
+                {
+                    "wordSa": "प्रकृतीनाम्",
+                    "wordEng": "of subjects",
+                    "tag": "Noun Gen Pl Fem"
+                },
+                {
+                    "wordSa": "हितैः",
+                    "wordEng": "with welfare",
+                    "tag": "Noun Instr Pl Neut"
+                },
+                {
+                    "wordSa": "युक्तम्",
+                    "wordEng": "engaged in",
+                    "tag": "Adj Acc Sg Masc"
+                },
+                {
+                    "wordSa": "प्रकृति-प्रिय-काम्यया",
+                    "wordEng": "with desire for affection of subjects",
+                    "tag": "Noun Instr Sg Fem"
+                },
+                {
+                    "wordSa": "यौवराज्येन",
+                    "wordEng": "with title of heir-apparent",
+                    "tag": "Noun Instr Sg Neut"
+                },
+                {
+                    "wordSa": "संयोक्तुम्",
+                    "wordEng": "to appoint",
+                    "tag": "Infinitive"
+                },
+                {
+                    "wordSa": "ऐच्छत्",
+                    "wordEng": "wished",
+                    "tag": "Verb Impf 3P Sg"
+                },
+                {
+                    "wordSa": "प्रीत्या",
+                    "wordEng": "with affection",
+                    "tag": "Noun Instr Sg Fem"
+                },
+                {
+                    "wordSa": "मही-पतिः",
+                    "wordEng": "Lord of Earth",
+                    "tag": "Noun Nom Sg Masc"
+                }
+            ]
+        }
+    ]
+}
