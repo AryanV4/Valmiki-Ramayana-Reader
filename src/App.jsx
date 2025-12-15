@@ -10,7 +10,7 @@ function App() {
 
   // Theme State
   const [theme, setTheme] = useState('light')
-  const [expandedMode, setExpandedMode] = useState(false);
+  const [viewMode, setViewMode] = useState('line');
 
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', theme);
@@ -27,11 +27,11 @@ function App() {
         onSelectionChange={setCurrentSelection}
         theme={theme}
         toggleTheme={toggleTheme}
-        expandedMode={expandedMode}
-        setExpandedMode={setExpandedMode}
+        viewMode={viewMode}
+        setViewMode={setViewMode}
       />
       <main className="main-content">
-        <Reader kanda={currentSelection.kanda} sarga={currentSelection.sarga} expandedMode={expandedMode} />
+        <Reader kanda={currentSelection.kanda} sarga={currentSelection.sarga} viewMode={viewMode} />
       </main>
     </div>
   )

@@ -27,6 +27,11 @@
                     "tag": "Adj Acc Sg Masc"
                 },
                 {
+                    "wordSa": "।",
+                    "wordEng": ".",
+                    "tag": "Punctuation"
+                },
+                {
                     "wordSa": "नारदम्",
                     "wordEng": "Narada",
                     "tag": "PropNoun Acc Sg Masc"
@@ -45,6 +50,11 @@
                     "wordSa": "मुनि-पुङ्गवम्",
                     "wordEng": "preeminent among sages",
                     "tag": "Noun Acc Sg Masc"
+                },
+                {
+                    "wordSa": "।।",
+                    "wordEng": "..",
+                    "tag": "Punctuation"
                 }
             ]
         },

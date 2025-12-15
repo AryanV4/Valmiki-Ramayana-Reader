@@ -1,8 +1,13 @@
 import React, { useState } from 'react';
 import Word from './Word';
 
-const ShlokaCard = ({ shlokaData, expandedMode }) => {
+const ShlokaCard = ({ shlokaData, viewMode }) => {
     const [isExpanded, setIsExpanded] = useState(false);
+
+    // Filter words based on view mode
+    const displayWords = viewMode === 'line'
+        ? shlokaData.words
+        : shlokaData.words.filter(w => w.tag !== 'Punctuation');
 
     return (
         <div className="shloka-card">
@@ -37,9 +42,18 @@ const ShlokaCard = ({ shlokaData, expandedMode }) => {
             <div className={`analysis-section ${isExpanded ? 'active' : ''}`}>
                 <div className="padaccheda-container">
                     <h4 className="section-title">पदविच्छेदः (Word Break)</h4>
-                    <div className={`word-grid ${expandedMode ? 'expanded-mode' : ''}`}>
-                        {shlokaData.words.map((word, index) => (
-                            <Word key={index} wordData={word} expandedMode={expandedMode} />
+                    <div className={`word-grid ${viewMode === 'detailed' ? 'expanded-mode' : ''} ${viewMode === 'line' ? 'line-mode-container' : ''}`}>
+                        {displayWords.map((word, index) => (
+                            <React.Fragment key={index}>
+                                <Word
+                                    wordData={word}
+                                    expandedMode={viewMode === 'detailed'}
+                                    isLineMode={viewMode === 'line'}
+                                />
+                                {viewMode === 'line' && word.wordSa === '।' && (
+                                    <div className="line-break" style={{ width: '100%' }}></div>
+                                )}
+                            </React.Fragment>
                         ))}
                     </div>
                 </div>

@@ -418,9 +418,9 @@ body {
 }
 
 .analyze-btn:hover {
-  background-color: var(--accent-color);
-  color: white;
-  border-color: var(--accent-color);
+  background-color: var(--bg-primary);
+  color: var(--text-sanskrit);
+  border-color: var(--text-sanskrit);
   text-decoration: none;
 }
 
@@ -493,7 +493,7 @@ body {
   cursor: pointer;
   padding: 0.75rem 1rem 0.25rem 1rem;
   border-radius: 999px;
-  background-color: var(--bg-tertiary);
+  background-color: var(--bg-secondary);
   border: 1px solid var(--border-color);
   transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
   display: inline-block;
@@ -511,8 +511,8 @@ body {
 /* Tooltip */
 .word-tooltip {
   position: absolute;
-  bottom: 130%;
-  /* Higher up */
+  bottom: calc(100% + 12px);
+  /* Fixed gap from top of word */
   left: 50%;
   transform: translateX(-50%);
   background-color: var(--tooltip-bg);
@@ -909,4 +909,69 @@ input:checked+.slider {
 input:checked+.slider:before {
   transform: translateX(18px);
   background-color: #fff;
+}
+
+/* Line Mode Styles */
+.word-grid.line-mode-container {
+  display: block;
+  line-height: 3.2;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.word-container.line-mode {
+  display: inline-block;
+  background: transparent;
+  border: none;
+  padding: 0;
+  margin-right: 1rem;
+  min-width: auto;
+  box-shadow: none;
+  vertical-align: middle;
+}
+
+.word-container.line-mode .sanskrit-word {
+  font-family: var(--font-serif);
+  font-size: 1.35rem;
+  font-weight: 500;
+  /* color: var(--text-primary); */
+  color: var(--text-sanskrit);
+
+  /* Reset Pill Styles */
+  background-color: transparent;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0 0 0px 0;
+  /* Minimal padding */
+
+  /* Line Mode Style */
+  border-bottom: 2px solid var(--border-color);
+  transition: all 0.2s ease;
+}
+
+.word-container.line-mode:hover .sanskrit-word,
+.word-container.line-mode .sanskrit-word.active {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+  border-bottom: 2px solid var(--text-sanskrit);
+  color: var(--text-sanskrit);
+  transform: none;
+}
+
+.sanskrit-punctuation {
+  font-family: var(--font-serif);
+  font-size: 1.5rem;
+  color: var(--text-primary);
+  margin-left: 0.2rem;
+  margin-right: 0;
+  font-weight: 600;
+}
+
+.line-break {
+  display: block;
+  width: 100%;
+  height: 0.5rem;
+  margin-bottom: 0.5rem;
 }

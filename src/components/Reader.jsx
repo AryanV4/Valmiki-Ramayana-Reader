@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import ShlokaCard from './ShlokaCard';
 
-const Reader = ({ kanda, sarga, expandedMode }) => {
+const Reader = ({ kanda, sarga, viewMode }) => {
     const [data, setData] = useState({ shlokas: [] });
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);
@@ -59,7 +59,7 @@ const Reader = ({ kanda, sarga, expandedMode }) => {
             </div>
 
             {data.shlokas && data.shlokas.map((shloka) => (
-                <ShlokaCard key={shloka.shlokanumber} shlokaData={shloka} expandedMode={expandedMode} />
+                <ShlokaCard key={shloka.shlokanumber} shlokaData={shloka} viewMode={viewMode} />
             ))}
         </div>
     );

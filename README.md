@@ -20,3 +20,4 @@ A modern, aesthetic web application for reading the Valmiki Ramayana with advanc
 - **Build Tool**: Vite
 - **Styling**: Vanilla CSS (Variables, Flexbox, Grid)
 - **Fonts**: 'Great Vibes' (Title), 'Roboto Slab' (Sanskrit), 'Inter' (UI).
+

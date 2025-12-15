@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react';
 
-const Word = ({ wordData, expandedMode }) => {
+const Word = ({ wordData, expandedMode, isLineMode }) => {
     const [showTooltip, setShowTooltip] = useState(false);
     const tooltipRef = useRef(null);
 
@@ -14,6 +14,11 @@ const Word = ({ wordData, expandedMode }) => {
         document.addEventListener('mousedown', handleClickOutside);
         return () => document.removeEventListener('mousedown', handleClickOutside);
     }, []);
+
+    // Punctuation in Line Mode
+    if (isLineMode && wordData.tag === 'Punctuation') {
+        return <span className="sanskrit-punctuation">{wordData.wordSa} </span>;
+    }
 
     if (expandedMode) {
         return (
@@ -34,7 +39,7 @@ const Word = ({ wordData, expandedMode }) => {
     }
 
     return (
-        <div className="word-container">
+        <div className={`word-container ${isLineMode ? 'line-mode' : ''}`}>
             <span
                 className={`sanskrit-word ${showTooltip ? 'active' : ''}`}
                 onClick={() => setShowTooltip(!showTooltip)}

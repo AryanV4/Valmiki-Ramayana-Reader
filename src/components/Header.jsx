@@ -5,7 +5,7 @@ import Select from './Select';
 const KANDAS = ['Bala Kanda', 'Ayodhya Kanda', 'Aranya Kanda', 'Kishkindha Kanda', 'Sundara Kanda', 'Yuddha Kanda'];
 const SARGAS = Array.from({ length: 77 }, (_, i) => i + 1); // Mock 77 sargas
 
-const Header = ({ currentSelection, onSelectionChange, theme, toggleTheme, expandedMode, setExpandedMode }) => {
+const Header = ({ currentSelection, onSelectionChange, theme, toggleTheme, viewMode, setViewMode }) => {
     const [isSidebarOpen, setIsSidebarOpen] = useState(false);
 
     const handleChange = (field, value) => {
@@ -14,6 +14,12 @@ const Header = ({ currentSelection, onSelectionChange, theme, toggleTheme, expan
 
     const kandaOptions = KANDAS.map(k => ({ label: k, value: k }));
     const sargaOptions = SARGAS.map(s => ({ label: `Sarga ${s}`, value: s.toString() }));
+
+    const viewOptions = [
+        { label: 'Simple View', value: 'simple' },
+        { label: 'Detailed View', value: 'detailed' },
+        { label: 'Shloka View', value: 'line' }
+    ];
 
     return (
         <header className="site-header">
@@ -40,24 +46,12 @@ const Header = ({ currentSelection, onSelectionChange, theme, toggleTheme, expan
                         className="desktop-select"
                     />
 
-                    <button
-                        className={`theme-toggle ${expandedMode ? 'active' : ''}`}
-                        onClick={() => setExpandedMode(!expandedMode)}
-                        title="Toggle Detail View"
-                        style={{
-                            fontSize: '0.8rem',
-                            width: 'auto',
-                            padding: '0 12px',
-                            fontWeight: 500,
-                            borderRadius: '20px',
-                            marginLeft: '12px',
-                            background: 'transparent',
-                            color: expandedMode ? 'var(--text-sanskrit)' : 'inherit',
-                            border: expandedMode ? '1px solid var(--text-sanskrit)' : '1px solid var(--border-color)'
-                        }}
-                    >
-                        {expandedMode ? 'Detailed' : 'Simple'}
-                    </button>
+                    <Select
+                        value={viewMode}
+                        onChange={setViewMode}
+                        options={viewOptions}
+                        className="desktop-select view-select"
+                    />
 
                     <button
                         className="theme-toggle"
@@ -105,17 +99,12 @@ const Header = ({ currentSelection, onSelectionChange, theme, toggleTheme, expan
                             </div>
 
                             <div className="sidebar-item">
-                                <div className="toggle-row">
-                                    <label>Detailed View</label>
-                                    <label className="switch">
-                                        <input
-                                            type="checkbox"
-                                            checked={expandedMode}
-                                            onChange={() => setExpandedMode(!expandedMode)}
-                                        />
-                                        <span className="slider"></span>
-                                    </label>
-                                </div>
+                                <label>View Mode</label>
+                                <Select
+                                    value={viewMode}
+                                    onChange={(val) => { setViewMode(val); setIsSidebarOpen(false); }}
+                                    options={viewOptions}
+                                />
                             </div>
 
                             <div className="sidebar-item">
